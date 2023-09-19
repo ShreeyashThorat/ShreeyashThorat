@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreeyash Thorat</h1>
 <h3 align="left">I'm a passionate Flutter developer with a deep love for mobile app development. Currently, I'm dedicating most of my time to mastering Flutter and building amazing mobile applications. My journey in Flutter has been a thrilling experience, and I'm always excited to explore its endless possibilities. Beyond Flutter, I'm an enthusiastic learner, and I'm constantly exploring other computer languages and technologies to broaden my skillset. My curiosity drives me to dive into new programming languages and frameworks, which not only enhances my problem-solving abilities but also helps me stay updated with the latest trends in the tech world.</h3>
 
-- 🔭 I’m currently working on [Messaging App](https://github.com/ShreeyashThorat/messaging_app)
-
 - 💬 Ask me about **flutter, android studio, java, node**
 
 - 📫 How to reach me **shreeyashthorat5@gmail.com**
